@@ -1,2 +1,2 @@
 # PRO1_FIB_Python
-Ejercicios De PRO1 hechos con python
+Ejercicios de PRO1 hechos con python y verificados con el jutge
